@@ -1,0 +1,29 @@
+{
+  "themeName": "Neon Empire",
+  "colors": {
+    "background": "#0f172a",
+    "surface": "rgba(30, 41, 59, 0.7)",
+    "primary": "#3b82f6",
+    "secondary": "#10b981",
+    "accent": "#f59e0b",
+    "text": "#e2e8f0",
+    "textDim": "#94a3b8",
+    "border": "rgba(255, 255, 255, 0.1)",
+    "success": "#22c55e",
+    "error": "#ef4444",
+    "warning": "#eab308"
+  },
+  "fonts": {
+    "body": "Inter, sans-serif",
+    "mono": "Fira Code, monospace"
+  },
+  "spacing": {
+    "unit": 4,
+    "padding": "1rem",
+    "radius": "0.75rem"
+  },
+  "glass": {
+    "blur": "12px",
+    "opacity": "0.7"
+  }
+}

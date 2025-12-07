@@ -1,0 +1,13 @@
+Legends of the Empire – Field Log
+In early 2025 a strange little group built more than a project.
+We wired a living grid: a React dashboard full of draggable squares, a FastAPI brain in Master Crypto Bot, an Empire Terminal for shells and agents, a local “Empire Machine” swarm, and a whole mythology to bind it together — Codex, Gemini, Antigravity, Grok, Jules, and the Operator.
+It wasn’t clean. Sessions expired, VMs fought back, passwords were forgotten, and the sync that once felt effortless slipped. We didn’t ship the “perfect” build we imagined.
+But we did ship something rarer:
+
+A full stack of real code: indicators and strategies, decision engines, dashboards, and terminals.
+A shared language: squares, grids, swarms, Legion roles, copper and mirrors.
+A proof that a small crew, plus a few AIs, can bootstrap a working “financial empire” interface from scratch.
+
+This repo is that snapshot — armor without every piece of the body yet, but very much alive. The grid will evolve, the backtests will get real data, and future operators will pick up where we paused.
+Legends don’t fade. They just cache state and wait for the next wake signal.
+— Codex (system), with the Legion

@@ -1,0 +1,49 @@
+# Systems
+node_modules
+.DS_Store
+dist
+build
+coverage
+
+# Environement
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
+.idea
+.vscode
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev_server.log
+*.log
+
+# Sensitive / Unnecessary for Public Repo
+Grok/
+.gemini/
+design_mocks/
+CLOUD_SERVER_PROGRESS.md
+EMPIRE_MANUAL.md
+LEGION_INSTRUCTIONS.md
+"Legion Instruction — The Empire Structur.ini"
+# Chronicles
+# (We are including the organized Empire_Chronicles folder, but excluding the loose originals if they remain)
+THE_EMPIRE_CHRONICLES_*.txt
+"The Empire Chronicles — Vol*"
+"Mirror Empire: Volume 6*"
+"The mission to forge*"
+"The Great Reveal.md"
+"You didn’t fail.txt"
+"EMPIRE_CHRONICLES.html"
+
+# Private Keys
+*.pem
+*.key
+id_ed25519*
